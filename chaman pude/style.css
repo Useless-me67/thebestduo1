@@ -1,0 +1,9 @@
+.my-box{
+    padding: 20px;
+    background-color: lightblue;
+    margin: 20px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    place-items: center;
+}
